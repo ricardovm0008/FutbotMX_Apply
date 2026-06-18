@@ -1,0 +1,201 @@
+{
+    "run_id": 1,
+    "fps_original": 30.0,
+    "frames": [
+        {
+            "frame": 30,
+            "estado": "procesado",
+            "total_detecciones": 2
+        },
+        {
+            "frame": 60,
+            "estado": "procesado",
+            "total_detecciones": 3
+        },
+        {
+            "frame": 90,
+            "estado": "procesado",
+            "total_detecciones": 2
+        },
+        {
+            "frame": 120,
+            "estado": "procesado",
+            "total_detecciones": 4
+        },
+        {
+            "frame": 150,
+            "estado": "procesado",
+            "total_detecciones": 2
+        },
+        {
+            "frame": 180,
+            "estado": "procesado",
+            "total_detecciones": 5
+        },
+        {
+            "frame": 210,
+            "estado": "procesado",
+            "total_detecciones": 3
+        },
+        {
+            "frame": 240,
+            "estado": "procesado",
+            "total_detecciones": 3
+        },
+        {
+            "frame": 270,
+            "estado": "procesado",
+            "total_detecciones": 2
+        },
+        {
+            "frame": 300,
+            "estado": "procesado",
+            "total_detecciones": 2
+        },
+        {
+            "frame": 330,
+            "estado": "procesado",
+            "total_detecciones": 1
+        },
+        {
+            "frame": 360,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 390,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 420,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 450,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 480,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 510,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 540,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 570,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 600,
+            "estado": "procesado",
+            "total_detecciones": 1
+        },
+        {
+            "frame": 630,
+            "estado": "procesado",
+            "total_detecciones": 3
+        },
+        {
+            "frame": 660,
+            "estado": "procesado",
+            "total_detecciones": 2
+        },
+        {
+            "frame": 690,
+            "estado": "procesado",
+            "total_detecciones": 4
+        },
+        {
+            "frame": 720,
+            "estado": "procesado",
+            "total_detecciones": 1
+        },
+        {
+            "frame": 750,
+            "estado": "procesado",
+            "total_detecciones": 1
+        },
+        {
+            "frame": 780,
+            "estado": "procesado",
+            "total_detecciones": 1
+        },
+        {
+            "frame": 810,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 840,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 870,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 900,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 930,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 960,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 990,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 1020,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 1050,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 1080,
+            "estado": "procesado",
+            "total_detecciones": 0
+        },
+        {
+            "frame": 1110,
+            "estado": "procesado",
+            "total_detecciones": 1
+        },
+        {
+            "frame": 1140,
+            "estado": "procesado",
+            "total_detecciones": 2
+        },
+        {
+            "frame": 1170,
+            "estado": "procesado",
+            "total_detecciones": 0
+        }
+    ]
+}

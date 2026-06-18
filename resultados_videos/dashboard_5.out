@@ -1,0 +1,7 @@
+--- Iniciando Ejecución ID: 5 ---
+Traceback (most recent call last):
+  File "/Home/practicas/2026-1/SAM3/main.py", line 242, in <module>
+    main()
+  File "/Home/practicas/2026-1/SAM3/main.py", line 118, in main
+    hsv = cv2.cvtColor(frame, cv2.COLOR_BGR2HSV)
+KeyboardInterrupt

@@ -1,0 +1,17 @@
+--- Iniciando Ejecución ID: 1 ---
+Traceback (most recent call last):
+  File "/Home/practicas/2026-1/SAM3/main.py", line 293, in <module>
+    main()
+  File "/Home/practicas/2026-1/SAM3/main.py", line 64, in main
+    model_sam = SAM(MODELO_SAM)
+  File "/Home/practicas/2026-1/.conda/envs/futbot_env/lib/python3.10/site-packages/ultralytics/models/sam/model.py", line 63, in __init__
+    super().__init__(model=model, task="segment")
+  File "/Home/practicas/2026-1/.conda/envs/futbot_env/lib/python3.10/site-packages/ultralytics/engine/model.py", line 144, in __init__
+    self._load(model, task=task)
+  File "/Home/practicas/2026-1/.conda/envs/futbot_env/lib/python3.10/site-packages/ultralytics/models/sam/model.py", line 79, in _load
+    self.model = build_interactive_sam3(weights)
+  File "/Home/practicas/2026-1/.conda/envs/futbot_env/lib/python3.10/site-packages/ultralytics/models/sam/build_sam3.py", line 344, in build_interactive_sam3
+    model = _load_checkpoint(model, checkpoint_path, interactive=True)
+  File "/Home/practicas/2026-1/.conda/envs/futbot_env/lib/python3.10/site-packages/ultralytics/models/sam/build_sam3.py", line 353, in _load_checkpoint
+    with open(checkpoint, "rb") as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'sam3.pt'
