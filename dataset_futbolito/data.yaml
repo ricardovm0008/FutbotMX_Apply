@@ -1,0 +1,6 @@
+
+path: /Home/practicas/2026-1/SAM3/dataset_futbolito
+train: images
+val: images
+nc: 3
+names: ['Pelota', 'Porteria', 'Robot']

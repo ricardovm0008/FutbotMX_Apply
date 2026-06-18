@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "Pelota"
+    },
+    {
+      "id": 1,
+      "name": "Porteria"
+    },
+    {
+      "id": 2,
+      "name": "Robot"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
